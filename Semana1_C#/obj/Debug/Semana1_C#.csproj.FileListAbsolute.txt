@@ -5,3 +5,4 @@ C:\Users\UPN\Downloads\AA\Sem3_C#\FA_2025-II\Semana1_C#\obj\Debug\Semana1_C#.csp
 C:\Users\UPN\Downloads\AA\Sem3_C#\FA_2025-II\Semana1_C#\obj\Debug\Semana1_C#.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Downloads\AA\Sem3_C#\FA_2025-II\Semana1_C#\obj\Debug\Semana1_C#.exe
 C:\Users\UPN\Downloads\AA\Sem3_C#\FA_2025-II\Semana1_C#\obj\Debug\Semana1_C#.pdb
+C:\Users\UPN\Downloads\AA\Sem3_C#\FA_2025-II\Semana1_C#\obj\Debug\Semana1_C#.exe.config
