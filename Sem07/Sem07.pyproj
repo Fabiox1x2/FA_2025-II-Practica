@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>62fe60a7-21b0-4d5a-b629-58af962bf4a2</ProjectGuid>
+    <ProjectGuid>9c91a0dd-fc5b-40fd-a9b4-c405d7aed859</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Ejeer4.py</StartupFile>
+    <StartupFile>Ejer3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Sem06</Name>
-    <RootNamespace>Sem06</RootNamespace>
+    <Name>Sem07</Name>
+    <RootNamespace>Sem07</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -22,11 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Ejeer4.py" />
-    <Compile Include="Ejer1.py" />
     <Compile Include="Ejer2.py" />
     <Compile Include="Ejer3.py" />
-    <Compile Include="Sem06.py" />
+    <Compile Include="Sem07.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

@@ -22,3 +22,11 @@ C:\Users\UPN\Desktop\sem6\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.ex
 C:\Users\UPN\Desktop\sem6\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\sem6\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.exe
 C:\Users\UPN\Desktop\sem6\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.pdb
+C:\Users\UPN\Downloads\sem06\FA_2025-II-Practica\Semana1_C#\bin\Debug\Semana1_C#.exe.config
+C:\Users\UPN\Downloads\sem06\FA_2025-II-Practica\Semana1_C#\bin\Debug\Semana1_C#.exe
+C:\Users\UPN\Downloads\sem06\FA_2025-II-Practica\Semana1_C#\bin\Debug\Semana1_C#.pdb
+C:\Users\UPN\Downloads\sem06\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\sem06\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.exe.config
+C:\Users\UPN\Downloads\sem06\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\sem06\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.exe
+C:\Users\UPN\Downloads\sem06\FA_2025-II-Practica\Semana1_C#\obj\Debug\Semana1_C#.pdb
